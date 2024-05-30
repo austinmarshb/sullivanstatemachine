@@ -54,3 +54,4 @@ if ((state == 0 && takingdamage == 1) || (state == 3 && takingdamage == 1))
     state = 2
     sprite_index = sprsoldierenemyrun
     alarm[3] = (1 * room_speed)
+}
