@@ -10,4 +10,6 @@ If anyone is making a game through Game Maker Studio, or is curious about making
 
 I will continue to add to this repository (when I can find the time) until all the most important bits of code are here.
 
+Each file will be named for what it does. I.E. "enemystatemachine" is the state machine I made for the enemy object template that is applied to many enemies in the game. "enemystep" is the step event for the enemy object etc.
+
 Cheers
