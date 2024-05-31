@@ -146,4 +146,6 @@ if (place_meeting(x, (y + 1), objwall) && smoke == 1 && mask_index == sprplayerm
     smoke = 0
 }
 if place_meeting((x - 1), y, objwall2)
+{
     sprite_index = sprplayerstand
+}
