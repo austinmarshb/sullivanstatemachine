@@ -1,0 +1,16 @@
+hspeed_ = 0
+vspeed_ = 0
+speed_ = 1
+hspeed_push_ = 0
+vspeed_push_ = 0
+health_ = 3
+flash = 0
+hitfrom = 0
+spd = random_range(1, 2)
+MOVEMENT_ = 0
+ATTACK_ = 1
+HIT_ = 2
+state_ = MOVEMENT_
+path = path_add()
+goingleft = 0
+goingright = 0
