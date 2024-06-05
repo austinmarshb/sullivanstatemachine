@@ -1,0 +1,17 @@
+depth = 500
+state = 1
+vsp = 0
+hsp = 0
+grv = 0.01
+spd = random_range(1, 1.5)
+canshoot = 1
+health_ = 7
+canjump = 1
+flash = 0
+takingdamage = 0
+idleshoot = 0
+chasing = 0
+firingdelay = 0
+mygun = instance_create_layer(x, y, "Instances_Walls", objenemygun)
+recoil = 0
+shooting = 0
