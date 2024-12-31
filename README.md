@@ -10,4 +10,4 @@ There is 44,000+ lines of code in the game. The files above make up the most imp
 
 Note: This code was written between 2016 and 2019, well before I knew anything about data structures and algorithms, version control, and general best practices! I have since obtained a Software Engineering degree and am an anspiring C# developer.
 
-##
+## Contributing
